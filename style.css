@@ -1,0 +1,113 @@
+* {
+	margin: 0;
+	padding:0;
+
+}
+
+#bodywrap {
+	background-color: #A52A2A;
+	width: 100%;
+}
+
+#mainWrap {
+	width: 100%;
+
+}
+
+
+.navbar {
+	
+	height: 15vh;
+}
+
+.navbar ul {
+	text-decoration: none;
+	
+}
+
+.navbar li a {
+	color: #2f4f4f;
+	font-size: 1.5rem;
+	margin-right: 7rem;
+	padding:0;
+}
+
+.navbar li a:hover {
+	color: #A52A2A;
+}
+
+.navbar .navbar-brand {
+	text-decoration: none;
+	color: #2f4f4f;
+	margin-left: 2rem;
+	font-size: 3rem;
+	font-family: 'Supermercado One', cursive;
+
+}
+
+
+
+#maincon {
+	width: 100%;
+	background:#A52A2A;
+	height: auto;
+
+
+}
+
+.jumbotron {
+	padding-top: 15px;
+	background: url("img/bistro2.jpeg");
+	
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 90vh;
+	margin: 30px auto;
+    
+}
+
+#cardcount {
+	margin: 0 auto;
+}
+
+
+#subcon {
+	width: 100%;
+	margin-top: 0;
+	background:#292929;
+	height: 70vh;
+	}
+
+
+
+ .left h4{
+	color:#d3d3d3;
+	font-size: 3em;
+	font-family: 'Supermercado One', cursive;
+}
+
+ .right h4{
+	color:#d3d3d3;
+	font-size: 3em;
+	font-family: 'Supermercado One', cursive;
+}
+
+.left {
+	float: left;
+	width: 70%;
+	margin-top: 20px;
+	 
+}
+
+
+.right {
+	float: right;
+	width: 30%;
+	margin-top: 20px;
+}
+
+footer {
+	clear: both;
+	background:#C8C8C8;
+	height: 10vh;
+}
