@@ -228,3 +228,48 @@ background: #ccc;
   font-family: arial;
   margin-top: -22px;
 }
+
+/* Locations page */
+
+#jumbotron2{
+	padding-top: 15px;
+	background: url("img/burger.jpeg") 0 -90px;
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 70vh;
+	margin: 10px auto;
+	text-align: center;
+	color:#fff;
+    
+}
+
+.jumbotron h1{
+	font-size: 4.5rem;
+	margin-top: 90px;
+}
+
+
+#leftside{
+	
+    background:url('img/people.jpeg');
+    background-size: cover;
+    height: 90vh;
+    width: 10%;
+}
+
+#rightside{
+	color: #ccc;
+	background: #292929;
+	height: 90vh;
+	width: 50%;
+
+}
+
+#rightside ul {
+	list-style: none;
+	margin-top: 30px;
+}
+
+#rightside li{
+	font-size: 1.5rem;
+}
